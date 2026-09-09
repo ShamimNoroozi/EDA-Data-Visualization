@@ -27,6 +27,12 @@ The Spearman correlations were also generally weak, with most values close to ze
 
 The scatter plots also showed several outliers and observations outside the highlighted reference ranges. Some samples labelled as potable had values outside these ranges, suggesting that potability cannot be determined from a simple threshold on one feature alone.
 
+## Dataset Source
+
+The dataset used in this project is the **Water Quality** dataset published on Kaggle:
+
+https://www.kaggle.com/datasets/adityakadiwal/water-potability/data
+
 ## Tools
 
 Python, Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, and UpSetPlot.
